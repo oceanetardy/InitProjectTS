@@ -1,4 +1,5 @@
 #Initialiser un projet TypeScript
+
 npm init
 
 package name: porte le nom du projet (version : 0.0.1)
